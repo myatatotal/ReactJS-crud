@@ -4,6 +4,6 @@
 
 - Exemplos
 
-- npm install and npm start in frontend and banck
+- npm install and npm start in frontend and backend
 
 
